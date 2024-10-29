@@ -1,0 +1,6 @@
+1. vägbeskrivningapp med kameror
+Vi kom på idén att kombinera någon typ av vägbeskrivningsapp med trafikverkets vägkameror.
+Detta program är till för att dema hur appen hade kunnat se ut, i sweden-camera-map.html ser ni hur tanken med det hela är.
+Man ska alltså kunna ange vart man vill åka och få en vägbeskrivning samt hur vägen ser ut, är det snöstorm och man ser att flertal
+trafikolyckor har inträffat kanske man istället ska välja att stanna hemma.
+Man ska alltså en snabb och enkel överblick över hur vägen och väglaget ser ut på den tänkta vägen som du ska åka med en enklare

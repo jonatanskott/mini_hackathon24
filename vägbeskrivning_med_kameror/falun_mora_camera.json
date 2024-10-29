@@ -1,0 +1,43 @@
+{
+    "RESPONSE": {
+        "RESULT": [
+            {
+                "Camera": [
+                    {
+                        "Geometry": {
+                            "SWEREF99TM": "POINT (525129.9918655205 6730982.821489383)",
+                            "WGS84": "POINT (15.460495 60.713665)"
+                        },
+                        "Id": "SE_STA_CAMERA_Geni_4804_K1",
+                        "Name": "Smälingen"
+                    },
+                    {
+                        "Geometry": {
+                            "SWEREF99TM": "POINT (513731.99574960244 6743136.133765997)",
+                            "WGS84": "POINT (15.252492 60.8233337)"
+                        },
+                        "Id": "SE_STA_CAMERA_Geni_4490_K1",
+                        "Name": "Mårtanberg"
+                    },
+                    {
+                        "Geometry": {
+                            "SWEREF99TM": "POINT (491055.9884521019 6754089.941798636)",
+                            "WGS84": "POINT (14.8350382 60.921814)"
+                        },
+                        "Id": "SE_STA_CAMERA_Geni_4808_K1",
+                        "Name": "Garsås"
+                    },
+                    {
+                        "Geometry": {
+                            "SWEREF99TM": "POINT (476862.9831068436 6763940.893600585)",
+                            "WGS84": "POINT (14.5720844 61.0096779)"
+                        },
+                        "Id": "SE_STA_CAMERA_Geni_4811_K1",
+                        "Name": "Mora"
+                    }
+            ]
+        }
+    ]
+}
+}
+
